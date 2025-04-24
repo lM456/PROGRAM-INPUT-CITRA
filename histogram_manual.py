@@ -121,7 +121,7 @@ def tampilkan_gambar_dan_histogram_rgb(img, hists, judul_gambar, judul_hist):
 # === MAIN ===
 # 1) Buka gambar input dan gambar referensi (RGB)
 input_img     = Image.open('inp.jpg').convert('RGB')
-reference_img = Image.open('ref.jpg').convert('RGB')
+reference_img = Image.open('ref.jpeg').convert('RGB')
 
 # 2) Hitung & tampilkan histogram input
 h_input = hitung_histogram_rgb(input_img)
@@ -146,3 +146,4 @@ tampilkan_gambar_dan_histogram_rgb(sp_img, h_sp,
 print("Selesai — file disimpan:\n"
       " - hasil_equalization_rgb.png\n"
       " - hasil_specification_rgb.png")
+
