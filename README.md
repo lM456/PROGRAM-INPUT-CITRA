@@ -4,4 +4,5 @@ Jum'at, 13:00-15:30 WIB
 Anggota Kelompok:
 1. Amelia 2201020041
 2. Lisa Mulyana 2201020006
-3. Arinda Amalia Putri 22010200
+3. Arinda Amalia Putri 2201020019
+   
